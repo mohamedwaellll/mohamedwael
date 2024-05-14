@@ -12,7 +12,7 @@
 ### Languages and Tools 🛠 : 
 <a href="https://html.dev" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=4&origin=search&related_id=5968267" alt="flutter" width="40" height="40"/> </a>
 <a href="https://css.dev" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/css-3_5968242?term=css&page=1&position=4&origin=search&related_id=5968242" alt="dart" width="40" height="40"/> </a>
-<a href="https://javascript.dev/" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=3&origin=search&related_id=5968292" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio?hl=ar/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> </a>
