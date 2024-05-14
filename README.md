@@ -10,7 +10,7 @@
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 ### Languages and Tools 🛠 : 
-<a href="https://html.dev" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=4&origin=search&related_id=5968267" alt="flutter" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://css.dev" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/css-3_5968242?term=css&page=1&position=4&origin=search&related_id=5968242" alt="dart" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio?hl=ar/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="git" width="40" height="40"/> </a>
