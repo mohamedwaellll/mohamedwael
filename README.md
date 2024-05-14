@@ -11,7 +11,7 @@
 
 ### Languages and Tools 🛠 : 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/424849/css-file-type.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio?hl=ar/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
